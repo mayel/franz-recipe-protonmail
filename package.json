@@ -1,0 +1,14 @@
+{
+  "id": "protonmail",
+  "name": "ProtonMail",
+  "version": "1.0.0",
+  "description": "ProtonMail",
+  "main": "index.js",
+  "author": "Jonathan A. Schweder <jonathanschweder@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/jaswdr/recipe-protonmail",
+  "config": {
+    "serviceURL": "https://mail.protonmail.com",
+    "hasNotificationSound": true
+  }
+}
